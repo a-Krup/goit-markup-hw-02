@@ -20,6 +20,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -29,6 +30,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
@@ -71,6 +73,7 @@ ul {
 .main-item-work {
     font-weight: 700;
     font-size: 56px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #fff;
     text-align: center;
@@ -85,13 +88,15 @@ ul {
     background-color:#4d5ae5; 
     cursor: pointer;
 }
-.btn-main:hover {
+.btn-main:hover,
+.btn-main:focus{
     background-color: #404bbf;
 }
 
 .name-two {
     font-weight: 700;
     font-size: 36px;
+    line-height: 1.11; 
     letter-spacing: 0.02em;
     color: #2e2f42;
     text-align: center;
@@ -130,6 +135,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
